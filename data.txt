@@ -1,0 +1,106 @@
+----data.txt----
+Computer Network Internet Stack Layer
+1. Appliction: message
+    FTP, HTTP, WEB, Email 
+2. Transport: segment 
+    TCP, UDP protocol
+3. Network: datagram 
+    IP protocol, SMTP protocol
+4. Datalink: frame
+    ARP protocol
+5. Physical
+continue 
+
+Chapter 1 Computer Networks and the Internet 1
+1.1 What Is the Internet? 2
+1.1.1 A Nuts-and-Bolts Description 2
+1.1.2 A Services Description 5
+1.1.3 What Is a Protocol? 7
+1.2 The Network Edge 9
+1.2.1 Access Networks 12
+1.2.2 Physical Media 18
+1.3 The Network Core 22
+1.3.1 Packet Switching 22
+1.3.2 Circuit Switching 27
+1.3.3 A Network of Networks 32
+1.4 Delay, Loss, and Throughput in Packet-Switched Networks 35
+1.4.1 Overview of Delay in Packet-Switched Networks 35
+1.4.2 Queuing Delay and Packet Loss 39
+1.4.3 End-to-End Delay 42
+1.4.4 Throughput in Computer Networks 44
+1.5 Protocol Layers and Their Service Models 47
+1.5.1 Layered Architecture 47
+1.5.2 Encapsulation 53
+1.6 Networks Under Attack 55
+1.7 History of Computer Networking and the Internet 60
+1.7.1 The Development of Packet Switching: 1961–1972 60
+1.7.2 Proprietary Networks and Internetworking: 1972–1980 62
+1.7.3 A Proliferation of Networks: 1980–1990 63
+1.7.4 The Internet Explosion: The 1990s 64
+1.7.5 The New Millennium
+Chapter 2 Application Layer 83
+2.1 Principles of Network Applications 84
+2.1.1 Network Application Architectures 86
+2.1.2 Processes Communicating 88
+2.1.3 Transport Services Available to Applications 91
+2.1.4 Transport Services Provided by the Internet 93
+2.1.5 Application-Layer Protocols 96
+2.1.6 Network Applications Covered in This Book 97
+2.2 The Web and HTTP 98
+2.2.1 Overview of HTTP 98
+2.2.2 Non-Persistent and Persistent Connections 100
+2.2.3 HTTP Message Format 103
+2.2.4 User-Server Interaction: Cookies 108
+2.2.5 Web Caching 110
+2.2.6 The Conditional GET 114
+2.3 File Transfer: FTP 116
+2.3.1 FTP Commands and Replies 118
+2.4 Electronic Mail in the Internet 118
+2.4.1 SMTP 121
+2.4.2 Comparison with HTTP 124
+2.4.3 Mail Message Format 125
+2.4.4 Mail Access Protocols 125
+2.5 DNS—The Internet’s Directory Service 130
+2.5.1 Services Provided by DNS 131
+2.5.2 Overview of How DNS Works 133
+2.5.3 DNS Records and Messages 139
+2.6 Peer-to-Peer Applications 144
+2.6.1 P2P File Distribution 145
+2.6.2 Distributed Hash Tables (DHTs) 151
+2.7 Socket Programming: Creating Network Applications 156
+2.7.1 Socket Programming with UDP 157
+2.7.2 Socket Programming with TCP 163
+Computer Network Internet Stack Layer
+1. Appliction: message
+    FTP, HTTP, WEB, Email 
+2. Transport: segment 
+    TCP, UDP protocol
+3. Network: datagram 
+    IP protocol, SMTP protocol
+4. Datalink: frame
+    ARP protocol
+5. Physical
+continue 
+Computer Network Internet Stack Layer
+1. Appliction: message
+    FTP, HTTP, WEB, Email 
+2. Transport: segment 
+    TCP, UDP protocol
+3. Network: datagram 
+    IP protocol, 
+4. Datalink: frame
+    ARP protocol
+5. Physical
+continue 
+Computer Network Internet Stack Layer
+1. Appliction: message
+    FTP, HTTP, WEB, Email 
+2. Transport: segment 
+    TCP, UDP protocol
+3. Network: datagram 
+    IP protocol, SMTP protocol
+4. Datalink: frame
+    ARP protocol
+5. Physical
+continue 
+------END of data.txt--------
